@@ -1,0 +1,27 @@
+body {
+    
+    background-image: url(poker-table-background-green-color_47243-1094.jpeg);
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h1 h2 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding: 5px 0px 5px 0px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin: 2px 0px 2px 0px;
+}
